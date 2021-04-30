@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "idig1t3bSTr/G2OwH2VphtR2H+Mp2K9B9FdfoRr13xszPMaIVRv7GVMCZka5bGiAKRkJC/5F0LYxnZYzJmmvWw==",
+  "dgSpecHash": "7wCm8ZLVNKwqU00tSE0vQs0eojnkom1vx6Sm3hDxdn/SlCX2f4vlPwPRDOBhGOXuLYQssIdXiPYrCelhQmjoqg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Repositories\\Auth.Repositories.csproj",
+  "projectFilePath": "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Repositories\\Auth.Repositories.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BS567\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\BS567\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

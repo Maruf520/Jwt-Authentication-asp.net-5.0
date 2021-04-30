@@ -20,6 +20,7 @@ namespace Auth.Api.Controllers
             this.authService = authService;
         }
 
+
         [HttpPost("Register")]
         public async Task<IActionResult> Register (UserRegisterDto userRegisterDto)
         {

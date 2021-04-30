@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jep2U+Ty1lVrYBdCiWHu18Od0TzlIXOg9BY3LVhH38DAaHOwv479Zxq66bCU1XmcOpqeqncgouvM5wecgN4q1w==",
+  "dgSpecHash": "K2DbeSHGSr3oh9o38kibJfQRGiM1ASi+Dse/ZDXGQrfxfVtixzX6T7zz44d7MY9V27G1ox2GfNBSRmkMg0rgXA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Api\\Auth.Api.csproj",
+  "projectFilePath": "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Api\\Auth.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BS567\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\BS567\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Dtos\\Auth.Dtos.csproj",
+      "projectUniqueName": "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Dtos\\Auth.Dtos.csproj",
       "projectName": "Auth.Dtos",
-      "projectPath": "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Dtos\\Auth.Dtos.csproj",
+      "projectPath": "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Dtos\\Auth.Dtos.csproj",
       "packagesPath": "C:\\Users\\BS567\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Dtos\\obj\\",
+      "outputPath": "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Dtos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BS567\\AppData\\Roaming\\NuGet\\NuGet.Config",

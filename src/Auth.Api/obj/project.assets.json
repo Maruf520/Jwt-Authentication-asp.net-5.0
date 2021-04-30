@@ -5712,11 +5712,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Api\\Auth.Api.csproj",
+      "projectUniqueName": "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Api\\Auth.Api.csproj",
       "projectName": "Auth.Api",
-      "projectPath": "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Api\\Auth.Api.csproj",
+      "projectPath": "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Api\\Auth.Api.csproj",
       "packagesPath": "C:\\Users\\BS567\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Api\\obj\\",
+      "outputPath": "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BS567\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5733,14 +5733,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Dtos\\Auth.Dtos.csproj": {
-              "projectPath": "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Dtos\\Auth.Dtos.csproj"
+            "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Dtos\\Auth.Dtos.csproj": {
+              "projectPath": "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Dtos\\Auth.Dtos.csproj"
             },
-            "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Models\\Auth.Models.csproj": {
-              "projectPath": "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Models\\Auth.Models.csproj"
+            "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Models\\Auth.Models.csproj": {
+              "projectPath": "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Models\\Auth.Models.csproj"
             },
-            "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Services\\Auth.Services.csproj": {
-              "projectPath": "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Services\\Auth.Services.csproj"
+            "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Services\\Auth.Services.csproj": {
+              "projectPath": "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Services\\Auth.Services.csproj"
             }
           }
         }
