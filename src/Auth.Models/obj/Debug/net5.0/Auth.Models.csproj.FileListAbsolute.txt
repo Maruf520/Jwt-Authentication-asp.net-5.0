@@ -1,0 +1,12 @@
+C:\Users\BS567\Desktop\Authentication\Auth.Models\bin\Debug\net5.0\Auth.Models.deps.json
+C:\Users\BS567\Desktop\Authentication\Auth.Models\bin\Debug\net5.0\Auth.Models.dll
+C:\Users\BS567\Desktop\Authentication\Auth.Models\bin\Debug\net5.0\ref\Auth.Models.dll
+C:\Users\BS567\Desktop\Authentication\Auth.Models\bin\Debug\net5.0\Auth.Models.pdb
+C:\Users\BS567\Desktop\Authentication\Auth.Models\obj\Debug\net5.0\Auth.Models.csprojAssemblyReference.cache
+C:\Users\BS567\Desktop\Authentication\Auth.Models\obj\Debug\net5.0\Auth.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS567\Desktop\Authentication\Auth.Models\obj\Debug\net5.0\Auth.Models.AssemblyInfoInputs.cache
+C:\Users\BS567\Desktop\Authentication\Auth.Models\obj\Debug\net5.0\Auth.Models.AssemblyInfo.cs
+C:\Users\BS567\Desktop\Authentication\Auth.Models\obj\Debug\net5.0\Auth.Models.csproj.CoreCompileInputs.cache
+C:\Users\BS567\Desktop\Authentication\Auth.Models\obj\Debug\net5.0\Auth.Models.dll
+C:\Users\BS567\Desktop\Authentication\Auth.Models\obj\Debug\net5.0\ref\Auth.Models.dll
+C:\Users\BS567\Desktop\Authentication\Auth.Models\obj\Debug\net5.0\Auth.Models.pdb
