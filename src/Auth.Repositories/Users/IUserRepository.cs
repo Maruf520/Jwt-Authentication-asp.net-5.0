@@ -11,7 +11,7 @@ namespace Auth.Repositories.Users
     public interface IUserRepository
     {
         Task<bool> CheckUserExistsByName(string username);
-        void CreateUserAsync(User user);
         void CreateUserAsync(UserDto user);
+        User GetUserByName( string username );
     }
 }

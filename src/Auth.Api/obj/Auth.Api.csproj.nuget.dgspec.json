@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Api\\Auth.Api.csproj": {}
+    "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Api\\Auth.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Api\\Auth.Api.csproj": {
+    "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Api\\Auth.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Api\\Auth.Api.csproj",
+        "projectUniqueName": "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Api\\Auth.Api.csproj",
         "projectName": "Auth.Api",
-        "projectPath": "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Api\\Auth.Api.csproj",
+        "projectPath": "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Api\\Auth.Api.csproj",
         "packagesPath": "C:\\Users\\BS567\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Api\\obj\\",
+        "outputPath": "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BS567\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,14 +28,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Dtos\\Auth.Dtos.csproj": {
-                "projectPath": "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Dtos\\Auth.Dtos.csproj"
+              "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Dtos\\Auth.Dtos.csproj": {
+                "projectPath": "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Dtos\\Auth.Dtos.csproj"
               },
-              "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Models\\Auth.Models.csproj": {
-                "projectPath": "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Models\\Auth.Models.csproj"
+              "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Models\\Auth.Models.csproj": {
+                "projectPath": "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Models\\Auth.Models.csproj"
               },
-              "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Services\\Auth.Services.csproj": {
-                "projectPath": "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Services\\Auth.Services.csproj"
+              "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Services\\Auth.Services.csproj": {
+                "projectPath": "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Services\\Auth.Services.csproj"
               }
             }
           }
@@ -107,14 +107,14 @@
         }
       }
     },
-    "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Dtos\\Auth.Dtos.csproj": {
+    "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Dtos\\Auth.Dtos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Dtos\\Auth.Dtos.csproj",
+        "projectUniqueName": "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Dtos\\Auth.Dtos.csproj",
         "projectName": "Auth.Dtos",
-        "projectPath": "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Dtos\\Auth.Dtos.csproj",
+        "projectPath": "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Dtos\\Auth.Dtos.csproj",
         "packagesPath": "C:\\Users\\BS567\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Dtos\\obj\\",
+        "outputPath": "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Dtos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BS567\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -161,14 +161,14 @@
         }
       }
     },
-    "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Models\\Auth.Models.csproj": {
+    "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Models\\Auth.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Models\\Auth.Models.csproj",
+        "projectUniqueName": "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Models\\Auth.Models.csproj",
         "projectName": "Auth.Models",
-        "projectPath": "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Models\\Auth.Models.csproj",
+        "projectPath": "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Models\\Auth.Models.csproj",
         "packagesPath": "C:\\Users\\BS567\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Models\\obj\\",
+        "outputPath": "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BS567\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -221,14 +221,14 @@
         }
       }
     },
-    "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Repositories\\Auth.Repositories.csproj": {
+    "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Repositories\\Auth.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Repositories\\Auth.Repositories.csproj",
+        "projectUniqueName": "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Repositories\\Auth.Repositories.csproj",
         "projectName": "Auth.Repositories",
-        "projectPath": "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Repositories\\Auth.Repositories.csproj",
+        "projectPath": "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Repositories\\Auth.Repositories.csproj",
         "packagesPath": "C:\\Users\\BS567\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Repositories\\obj\\",
+        "outputPath": "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BS567\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -245,11 +245,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Dtos\\Auth.Dtos.csproj": {
-                "projectPath": "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Dtos\\Auth.Dtos.csproj"
+              "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Dtos\\Auth.Dtos.csproj": {
+                "projectPath": "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Dtos\\Auth.Dtos.csproj"
               },
-              "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Models\\Auth.Models.csproj": {
-                "projectPath": "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Models\\Auth.Models.csproj"
+              "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Models\\Auth.Models.csproj": {
+                "projectPath": "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Models\\Auth.Models.csproj"
               }
             }
           }
@@ -288,14 +288,14 @@
         }
       }
     },
-    "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Services\\Auth.Services.csproj": {
+    "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Services\\Auth.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Services\\Auth.Services.csproj",
+        "projectUniqueName": "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Services\\Auth.Services.csproj",
         "projectName": "Auth.Services",
-        "projectPath": "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Services\\Auth.Services.csproj",
+        "projectPath": "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Services\\Auth.Services.csproj",
         "packagesPath": "C:\\Users\\BS567\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Services\\obj\\",
+        "outputPath": "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BS567\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -312,14 +312,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Dtos\\Auth.Dtos.csproj": {
-                "projectPath": "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Dtos\\Auth.Dtos.csproj"
+              "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Dtos\\Auth.Dtos.csproj": {
+                "projectPath": "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Dtos\\Auth.Dtos.csproj"
               },
-              "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Models\\Auth.Models.csproj": {
-                "projectPath": "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Models\\Auth.Models.csproj"
+              "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Models\\Auth.Models.csproj": {
+                "projectPath": "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Models\\Auth.Models.csproj"
               },
-              "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Repositories\\Auth.Repositories.csproj": {
-                "projectPath": "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Repositories\\Auth.Repositories.csproj"
+              "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Repositories\\Auth.Repositories.csproj": {
+                "projectPath": "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Repositories\\Auth.Repositories.csproj"
               }
             }
           }
@@ -333,6 +333,20 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.11.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.11.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

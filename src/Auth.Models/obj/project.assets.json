@@ -532,11 +532,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Models\\Auth.Models.csproj",
+      "projectUniqueName": "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Models\\Auth.Models.csproj",
       "projectName": "Auth.Models",
-      "projectPath": "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Models\\Auth.Models.csproj",
+      "projectPath": "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Models\\Auth.Models.csproj",
       "packagesPath": "C:\\Users\\BS567\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Models\\obj\\",
+      "outputPath": "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BS567\\AppData\\Roaming\\NuGet\\NuGet.Config",

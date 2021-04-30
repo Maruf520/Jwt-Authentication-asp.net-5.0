@@ -20,8 +20,9 @@ namespace Auth.Api.Controllers
             this.authService = authService;
         }
 
+
         [HttpPost("Register")]
-        public async Task<IActionResult> Register (UserRegisterDto userRegisterDto)
+        public async Task<IActionResult> Register(UserRegisterDto userRegisterDto)
         {
             ServiceResponse<int> response = await authService.Register(
                 new UserDto
@@ -30,7 +31,7 @@ namespace Auth.Api.Controllers
                 },
                 userRegisterDto.Password
                 );
-          if(!response.Success)
+            if (!response.Success)
             {
                 return BadRequest(response);
             }
@@ -39,7 +40,19 @@ namespace Auth.Api.Controllers
             response.Message = "Registered Successfully";
 
             return Ok(response);
-             
+
+        }
+
+        [HttpPost("login")]
+        public async Task<IActionResult> Login(UserLoginDto userLoginDto)
+        {
+            ServiceResponse<string> response = await authService.Login(userLoginDto);
+            if (!response.Success)
+            {
+                return BadRequest(response);
+            }
+
+            return Ok(response);
         }
     }
 }

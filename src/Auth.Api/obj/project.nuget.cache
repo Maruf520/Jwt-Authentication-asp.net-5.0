@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jep2U+Ty1lVrYBdCiWHu18Od0TzlIXOg9BY3LVhH38DAaHOwv479Zxq66bCU1XmcOpqeqncgouvM5wecgN4q1w==",
+  "dgSpecHash": "Ccl5tdtztosl//yGkxxcFRyvphhYi0GSzRN8Moy4qDS58lTD77L8mcqcjzeh+jSD2+j8vtB0D3yKfa5SHznalQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Api\\Auth.Api.csproj",
+  "projectFilePath": "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Api\\Auth.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BS567\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\BS567\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
@@ -22,6 +22,7 @@
     "C:\\Users\\BS567\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\BS567\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
     "C:\\Users\\BS567\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\BS567\\.nuget\\packages\\microsoft.extensions.configuration.binder\\5.0.0\\microsoft.extensions.configuration.binder.5.0.0.nupkg.sha512",
     "C:\\Users\\BS567\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
     "C:\\Users\\BS567\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\BS567\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",

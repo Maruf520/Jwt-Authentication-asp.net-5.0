@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p4YXqPYidjwVr+xX/Hdf+SXEcwp10GtPD4IzUO8PeEJztuOyWqGE4kRIZV7XAPKoOyqBdPWeKDzSqyriL7GG7Q==",
+  "dgSpecHash": "3v1sIVnsvRRZwqjRSHYL8MKDy/UFLhABpMXszGKJCSlCMo5cpKuV4zkPfAxeFnoguc12KAxjKXCaSCLHnrtYpg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BS567\\Desktop\\Authentication\\Auth.Dtos\\Auth.Dtos.csproj",
+  "projectFilePath": "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Dtos\\Auth.Dtos.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
