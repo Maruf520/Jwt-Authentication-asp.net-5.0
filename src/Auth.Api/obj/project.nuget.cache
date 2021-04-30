@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "K2DbeSHGSr3oh9o38kibJfQRGiM1ASi+Dse/ZDXGQrfxfVtixzX6T7zz44d7MY9V27G1ox2GfNBSRmkMg0rgXA==",
+  "dgSpecHash": "Ccl5tdtztosl//yGkxxcFRyvphhYi0GSzRN8Moy4qDS58lTD77L8mcqcjzeh+jSD2+j8vtB0D3yKfa5SHznalQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\BS567\\Documents\\Auth\\Jwt-Authentication-asp.net-5.0\\src\\Auth.Api\\Auth.Api.csproj",
   "expectedPackageFiles": [
@@ -22,6 +22,7 @@
     "C:\\Users\\BS567\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\BS567\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
     "C:\\Users\\BS567\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\BS567\\.nuget\\packages\\microsoft.extensions.configuration.binder\\5.0.0\\microsoft.extensions.configuration.binder.5.0.0.nupkg.sha512",
     "C:\\Users\\BS567\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
     "C:\\Users\\BS567\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\BS567\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",

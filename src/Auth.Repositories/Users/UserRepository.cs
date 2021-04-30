@@ -28,17 +28,17 @@ namespace Auth.Repositories.Users
             return false;
         }
 
-        public void CreateUserAsync(User user)
-        {
-            context.Users.Add(user);
-            context.SaveChanges();
-        }
-
         public void CreateUserAsync(UserDto user)
         {
             var usertomap = mapper.Map<User>(user);
             context.Users.Add(usertomap);
             context.SaveChanges();
+        }
+
+        public User GetUserByName(string username)
+        {
+            var user = context.Users.FirstOrDefault(x => x.Username.ToLower().Equals(username.ToLower()));
+            return user;
         }
     }
 }

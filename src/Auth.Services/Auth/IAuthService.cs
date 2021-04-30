@@ -12,6 +12,7 @@ namespace Auth.Services.Auth
     public interface IAuthService
     {
 
-        Task<ServiceResponse<int>> Register(UserDto userDto, string password);
+        Task<ServiceResponse<int>> Register (UserDto userDto, string password);
+        Task<ServiceResponse<string>> Login (UserLoginDto user);
     }
 }
